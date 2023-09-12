@@ -36,7 +36,7 @@ Nope.
 
 1. After my in class demonstration, see if you can use the JavaFX knowledge you obtained this week to get the project functioning.
 
-If we do a class demo I'll take a stab at this again, but I cannot figure it out. 
+If we do a class demo I'll take a stab at this again, but I cannot figure it out. It's also 1:30 in the morning so I may also just be tired.
 
 1. Watch the following video on the MiniMax algorithm.
     * <iframe width="560" height="315" src="https://www.youtube.com/embed/l-hh51ncgDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
